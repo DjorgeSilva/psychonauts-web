@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/psychonauts-web/static/js/main.45de7338.chunk.js",
-    "main.js.map": "/psychonauts-web/static/js/main.45de7338.chunk.js.map",
+    "main.js": "/psychonauts-web/static/js/main.ee4392b4.chunk.js",
+    "main.js.map": "/psychonauts-web/static/js/main.ee4392b4.chunk.js.map",
     "runtime-main.js": "/psychonauts-web/static/js/runtime-main.2fa7c4d2.js",
     "runtime-main.js.map": "/psychonauts-web/static/js/runtime-main.2fa7c4d2.js.map",
     "static/css/2.d45d6843.chunk.css": "/psychonauts-web/static/css/2.d45d6843.chunk.css",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2fa7c4d2.js",
     "static/css/2.d45d6843.chunk.css",
     "static/js/2.441068fb.chunk.js",
-    "static/js/main.45de7338.chunk.js"
+    "static/js/main.ee4392b4.chunk.js"
   ]
 }
